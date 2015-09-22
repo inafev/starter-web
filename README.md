@@ -15,3 +15,7 @@ Sample website with plenty of files for demos, as stated above.
 Showing how to use Git and Github together.
 
 This is a simple web project.
+
+### Copyright
+
+2014 Git.Training.
